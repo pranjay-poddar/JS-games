@@ -43,6 +43,18 @@
     transform: scale(1.1);
 }
 
+.navbar {
+    position: absolute;
+}
+
+.navbar a {
+    background-color: rgb(255, 140, 8);
+    padding: 10px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: white !important;
+}
+
 body {
     background: #ececec;
     font-family: 'Roboto', sans-serif;
